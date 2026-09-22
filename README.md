@@ -23,7 +23,7 @@ This project was mainly built to practice React concepts such as **Context API, 
 * **Tailwind CSS**
 * **JavaScript (ES6+)**
 
-Live link: https://book-vibe-by-yashin.netlify.app/books
+Live link: https://book-vibe-by-yashin.netlify.app
 
 
 If you have any feedback or suggestions about the project, feel free to share them.
