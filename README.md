@@ -10,7 +10,7 @@ This project was mainly built to practice React concepts such as **Context API, 
 *  Browse available books from the homepage
 *  Add books to the **Read List**
 *  Add books to the **Wish List**
-* 🔍 Filter books from the selected lists
+*  Filter books from the selected lists
 *  Navigate between pages using React Router
 *  Manage shared application data using Context API
 *  Styled with Tailwind CSS
