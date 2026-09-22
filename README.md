@@ -1,16 +1,29 @@
-# React + Vite
+<img width="800" alt="Screenshot_1" src="https://github.com/user-attachments/assets/7f9397c9-dbb3-486c-a009-e7e99d680931" /><br/>
+# 📚 Book Vibe
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Book Vibe** is a small book management web application built with React. It allows users to explore books, add them to a **Read List** or **Wish List**, and filter their selected books easily.
 
-Currently, two official plugins are available:
+This project was mainly built to practice React concepts such as **Context API, React Router, component-based development, and state management**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+##  Features
 
-## React Compiler
+*  Browse available books from the homepage
+*  Add books to the **Read List**
+*  Add books to the **Wish List**
+* 🔍 Filter books from the selected lists
+*  Navigate between pages using React Router
+*  Manage shared application data using Context API
+*  Styled with Tailwind CSS
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+##  Technologies Used
 
-## Expanding the ESLint configuration
+* **React.js**
+* **React Router**
+* **Context API**
+* **Tailwind CSS**
+* **JavaScript (ES6+)**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Live link: https://book-vibe-by-yashin.netlify.app/books
+
+
+If you have any feedback or suggestions about the project, feel free to share them.
